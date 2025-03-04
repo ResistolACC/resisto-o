@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.3.1//EN
+N:Toño;Resis;;;
+FN:Resis Toño
+TITLE:Guarda mi contacto en tu teléfono y comienza a resolver todas tus dud
+ as por WhatsApp.
+item1.EMAIL;type=INTERNET;type=pref:resistol@jelp.com
+item1.X-ABLabel:Email
+item2.TEL;type=pref:55 9225 2581
+item2.X-ABLabel:Mobile
+item3.URL;type=pref:https://www.instagram.com/resistolmx/
+item3.X-ABLabel:Instagram
+item4.URL:https://www.facebook.com/resistolmx
+item4.X-ABLabel:Facebook
+item5.URL:https://www.qrcodechimp.com/r/resistol
+item5.X-ABLabel:eBusiness Card
+END:VCARD
